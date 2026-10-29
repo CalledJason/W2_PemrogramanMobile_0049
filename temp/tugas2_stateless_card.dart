@@ -133,7 +133,7 @@ class HalamanMahasiswa extends StatelessWidget {
                       ),
                       const SizedBox(height: 14),
                       const KartuMahasiswa(
-                        nama: 'Ayu Lestari',
+                        nama: 'Ning Yizhuo',
                         nim: '3012410050',
                         prodi: 'Sistem Informasi',
                         list: 2,
@@ -141,7 +141,7 @@ class HalamanMahasiswa extends StatelessWidget {
                       ),
                       const SizedBox(height: 14),
                       const KartuMahasiswa(
-                        nama: 'Raka Pratama',
+                        nama: 'Alex Turner',
                         nim: '3012410051',
                         prodi: 'Teknik Komputer',
                         list: 3,
